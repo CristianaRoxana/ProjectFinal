@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/cbudiu/Desktop/New folder/Rest/jerseyjars/aopalliance-repackaged-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cbudiu/Desktop/New folder/Rest/jerseyjars/asm-debug-all-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cbudiu/Desktop/New folder/Rest/jerseyjars/hk2-api-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cbudiu/Desktop/New folder/Rest/jerseyjars/hk2-locator-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cbudiu/Desktop/New folder/Rest/jerseyjars/hk2-utils-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cbudiu/Desktop/New folder/Rest/jerseyjars/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cbudiu/Desktop/New folder/Rest/jerseyjars/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cbudiu/Desktop/New folder/Rest/jerseyjars/javax.inject-2.3.0-b10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cbudiu/Desktop/New folder/Rest/jerseyjars/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cbudiu/Desktop/New folder/Rest/jerseyjars/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cbudiu/Desktop/New folder/Rest/jerseyjars/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cbudiu/Desktop/New folder/Rest/jerseyjars/jersey-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cbudiu/Desktop/New folder/Rest/jerseyjars/jersey-common.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cbudiu/Desktop/New folder/Rest/jerseyjars/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cbudiu/Desktop/New folder/Rest/jerseyjars/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cbudiu/Desktop/New folder/Rest/jerseyjars/jersey-core-1.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cbudiu/Desktop/New folder/Rest/jerseyjars/jersey-guava-2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cbudiu/Desktop/New folder/Rest/jerseyjars/jersey-media-multipart-2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cbudiu/Desktop/New folder/Rest/jerseyjars/jersey-server.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cbudiu/Desktop/New folder/Rest/jerseyjars/mimepull.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cbudiu/Desktop/New folder/Rest/jerseyjars/org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cbudiu/Desktop/New folder/Rest/jerseyjars/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cbudiu/Desktop/New folder/Rest/jerseyjars/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cbudiu/Desktop/New folder/Servleti/servlet-api.jar/servlet-api.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
